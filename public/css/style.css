@@ -1,0 +1,126 @@
+/*GENERAL*/
+
+h1,
+h3 {
+    text-align: center;
+}
+
+h3 {
+    background-color: crimson;
+    color: white;
+    font-size: 1.2em;
+    margin-bottom: 0px;
+}
+
+.news {
+
+    margin-top: 0px;
+}
+
+.news {
+    width: 70%;
+    margin: auto;
+}
+
+a,
+p {
+    text-decoration: none;
+
+}
+
+body .blog-row {
+    margin-top: 50px;
+}
+
+.margin_bottom30 {
+    margin-bottom: 30px;
+}
+
+.margin_left10 {
+    margin-left: 10px;
+}
+
+.blog-content {
+    padding: 10px;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+
+/*HEADER*/
+
+.carousel .item {
+    height: 300px;
+}
+
+.carousel img {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.carousel-caption {
+    margin-bottom: 30px;
+
+}
+
+.carousel-caption h1 {
+    margin-bottom: 15px;
+    font-size: 42px;
+    font-weight: 700px;
+}
+
+.carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+
+/*FOOTER*/
+
+
+.back-post {
+    margin-top: 20px;
+    margin-left: 362px;
+}
+
+.btn-success {
+    margin-left:16px;
+}
+
+#add-comment {
+    margin-top: 20px;
+    margin-bottom: 90px;
+}
+
+
+
+
+
+
+
+#author {
+    width: 190px;
+}
+
+
+
+#comment {
+    width: 450px;
+    height: 100px;
+}
+
+.color {
+    color: crimson;
+    
+}
+
+
+
+
+
+
